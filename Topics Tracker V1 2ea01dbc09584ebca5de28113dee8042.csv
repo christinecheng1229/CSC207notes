@@ -1,0 +1,129 @@
+﻿Property,Topic,Resources,Practice,More Resources/Practice
+No,RAT,,https://q.utoronto.ca/courses/394773/quizzes/479131,iRAT.pdf
+No,Design Patterns 1,,https://q.utoronto.ca/courses/394773/pages/m4-design-patterns-1,
+No,14-regular-expressions.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/14-regular-expressions.md
+
+https://github.com/CSC207-UofT/207-course-notes/blob/master/code/regex/Demo.java
+
+https://www.rexegg.com/regex-quickstart.php
+
+https://jenkov.com/tutorials/java-regex/index.html
+
+https://regexcrossword.com/
+
+https://www.w3schools.com/java/java_regex.asp",,"Regex.pdf, Regex_Practice_Quiz.pdf"
+No,L1: Software Lifecycle,https://utoronto-my.sharepoint.com/:b:/r/personal/christineentse_cheng_mail_utoronto_ca/Documents/Year%204/CSC207H1-F/Lecture%201_initial.pdf?csf=1&web=1&e=cYSMlY,,
+No,L1: University Example IntelliJ Demo,https://github.com/paulgries/UniversityExample,,
+No,"RAT, Java games 1 & 2",,https://q.utoronto.ca/courses/394773/quizzes/473946 | https://q.utoronto.ca/courses/394773/pages/m0-java-games-part-1-2 | https://q.utoronto.ca/courses/394773/pages/m0-java-games-part-2-2,iRAT%201.pdf
+No,Java games 3,,https://q.utoronto.ca/courses/394773/pages/m1-java-games-part-3,JavaMemoryModelExamples.pdf
+No,Parts of a Program,,https://q.utoronto.ca/courses/394773/pages/m1-parts-of-a-program (+ https://github.com/CSC207-2025F-UofT/Trader),RestaurantReviewSpecification_(1).pdf
+No,"Your Project and SOLID: stakeholders, actors, user",,,
+No,Design Patterns 2,,https://q.utoronto.ca/courses/394773/pages/m4-design-patterns-2,
+No,Module 0 (not for marks) -- Sept 2-16 -- Java Fundamentals and Version Control,"
+• Clean Architecture book: Part 1 (pages 1–18)",https://q.utoronto.ca/courses/394773/quizzes/475878 | https://github.com/christinecheng1229/FizzBuzz,
+No,00-introduction-to-git.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/00-introduction-to-git.md
+
+https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue
+
+https://www.atlassian.com/git/tutorials/using-branches
+
+https://youtu.be/d3N2yeAaLkc?si=FAfhoU5UZ_OxMbSg",https://learngitbranching.js.org/ | https://github.com/christinecheng1229/lab2-branching-and-merging | https://github.com/altcait/lab2-multiset-adt,screencapture-q-utoronto-ca-courses-394773-quizzes-475878-history-2025-12-13-16_42_52.pdf
+No,Module 1 -- Sept 17-30 -- Java OOP,"• Clean Architecture book: Part 2 (pages 19–56)
+
+• https://javadoc.io/doc/org.json/json/latest/index.html",https://github.com/mafereyesb/LostInTranslation | https://github.com/christinecheng1229/NumberTriangle,
+No,02-classes-in-java.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/02-classes-in-java.md
+
+https://github.com/CSC207-UofT/207-course-notes/blob/master/code/Monster.java
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/",,screencapture-q-utoronto-ca-courses-394773-quizzes-460464-history-2025-12-13-17_22_13.pdf
+No,03-relationships-between-classes.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/03-relationships-between-classes.md
+
+https://github.com/CSC207-UofT/207-course-notes/blob/master/code/gui/MainFrame.java
+
+https://github.com/CSC207-UofT/207-course-notes/blob/master/code/gui/NestedPanelsExample.java
+
+https://docs.oracle.com/javase/tutorial/java/IandI/",,screencapture-q-utoronto-ca-courses-394773-quizzes-460461-history-2025-12-13-17_22_56.pdf
+No,04-GUIs-with-swing.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/04-GUIs-with-swing.md
+
+https://docs.oracle.com/javase/tutorial/uiswing/
+
+https://docs.oracle.com/javase/tutorial/uiswing/components/list.html",,screencapture-q-utoronto-ca-courses-394773-quizzes-479224-history-2025-12-13-17_23_49.pdf
+No,OOP Explorations Part 1,,https://q.utoronto.ca/courses/394773/pages/m1-oop-explorations-part-1,JCF-overview.pdf
+No,UML Diagrams,,,uml-class-diagrams.pdf
+No,05-java-gotchas-and-subtleties.md,https://github.com/CSC207-UofT/207-course-notes/blob/master/05-java-gotchas-and-subtleties.md,,
+No,06-generics.md,https://github.com/CSC207-UofT/207-course-notes/blob/master/06-generics.md,,
+No,07-collections.md,https://github.com/CSC207-UofT/207-course-notes/blob/master/07-collections.md,,
+No,08-program-specification.md,https://github.com/CSC207-UofT/207-course-notes/blob/master/08-program-specification.md,https://github.com/mafereyesb/todo-list,
+No,Module 2 -- Oct 1-14 -- Design Principles,• Clean Architecture book: Part 3: Design Principles (pages 57–91),https://github.com/mafereyesb/lab-5 | https://github.com/christinecheng1229/m2-coding-dog-breed-fetcher,
+No,09-design-principles.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/09-design-principles.md
+
+https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html
+
+https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html
+
+https://blog.cleancoder.com/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html
+
+https://blog.cleancoder.com/uncle-bob/2013/03/08/AnOpenAndClosedCase.html",,"SRP.pdf, OCP.pdf, LSP.pdf, ISP.pdf, DIP.pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-481354-history-2025-12-13-18_10_05.pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-481343-history-2025-12-13-18_13_01.pdf"
+No,OOP Explorations 2,https://github.com/jcal13/area-calculator,https://q.utoronto.ca/courses/394773/pages/m2-oop-explorations-part-2,ShapeCalculatorExample.pdf
+No,Exceptions,https://github.com/CSC207-2025F-UofT/exception-examples,https://q.utoronto.ca/courses/394773/pages/m2-exceptions,Exceptions.pdf
+No,Use Cases,"https://github.com/CSC207-UofT/207-course-notes/blob/master/08-program-specification.md#82-use-cases
+
+https://q.utoronto.ca/courses/394773/pages/how-to-implement-a-use-case",https://q.utoronto.ca/courses/394773/pages/m2-use-cases,Introduction_to_Use_Cases.pdf
+No,Module 3 -- Oct 15-Nov 4 -- Clean Architecture,"Clean Architecture book: Part 5: Architecture (pages 133–273)
+    ◦ The most relevant chapters are 15–16, 19–22, and 26 — if you don't wish to read this whole part of the book but still get the main ideas.
+
+https://medium.com/slalom-build/clean-architecture-with-java-11-f78bba431041
+
+https://www.plainionist.net/Clean-Architecture-And-Design/
+
+https://www.newstore.com/articles/clean-architecture-code-hotspots/
+
+https://javadevguy.wordpress.com/2017/07/27/a-detailed-analysis-of-the-clean-architecture-from-an-object-oriented-perspective/",https://github.com/mafereyesb/ca-lab,TestingCA.pdf
+No,10-introduction-to-layered-architectures.md,https://github.com/CSC207-UofT/207-course-notes/blob/master/10-introduction-to-layered-architectures.md,,
+No,11-clean-architecture.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/11-clean-architecture.md
+
+https://github.com/CSC207-2025F-UofT/ca-user-login
+
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+
+https://youtu.be/Nsjsiz2A9mg?si=jb_vQna71ErLUmCv",,"screencapture-q-utoronto-ca-courses-394773-quizzes-483173-history-2025-12-17-15_16_54.pdf, CleanArchitectureDiagram_(2).png"
+No,"RATs, Clean Architecture and Use Case Interactors Activities",,https://q.utoronto.ca/courses/394773/pages/m3-clean-architecture-part-1 | https://q.utoronto.ca/courses/394773/pages/m3-use-case-interactors,screencapture-q-utoronto-ca-courses-394773-quizzes-482244-history-2025-12-17-15_20_52.pdf
+No,Building the CA Engine,,https://q.utoronto.ca/courses/394773/pages/m3-building-the-ca-engine,
+No,Unit Test for a Use Case Interactor,"https://github.com/CSC207-2025F-UofT/ca-lab (/w examples of testing use cases)
+    ◦ https://github.com/CSC207-2025F-UofT/ca-lab/blob/main/src/test/java/use_case/login/LoginInteractorTest.java",,testing_use_cases.pdf
+No,Module 4 -- Nov 5-18 -- Design Patterns,"• The Clean Architecture book talks about several patterns in passing, but this topic isn't the focus of the book:
+    ◦ Chapter 11: DIP talks about the Abstract Factory pattern near the end.
+    ◦ Chapter 23: Presenters and Humble Objects talks about the Humble Object pattern which you may find interesting as it relates to how the Clean Architecture is designed to be testable.
+    ◦ Façades and the Strategy pattern are briefly discussed at the end of Chapter 24: Partial Boundaries.
+• Head First Design Patterns is a highly recommended first book on design patterns.",,PropertyChangeDocumentation.pdf
+No,12-design-patterns.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/12-design-patterns.md
+
+https://github.com/CSC207-UofT/207-course-notes/tree/master/code/design_patterns
+
+https://q.utoronto.ca/courses/394773/pages/m4-builder-examples
+
+https://refactoring.guru/design-patterns
+
+https://sourcemaking.com/design_patterns",,"DesignPatterns.pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-485098-history-2025-12-17-15_57_09.pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-484945-history-2025-12-17-16_06_32.pdf"
+No,13-refactoring-techniques.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/13-refactoring-techniques.md
+
+https://www.thoughtworks.com/content/dam/thoughtworks/documents/books/bk_Refactoring2-free-chapter_en.pdf",https://github.com/christinecheng1229/M4-refactoring (task 3 onwards),Refactoring_and_Anti-Patterns.pdf
+No,Refactoring the Observer Anti-Pattern,"https://github.com/CSC207-UofT/207-course-notes/tree/master/code/design_patterns/behavioural/observer
+
+https://refactoring.guru/refactoring/techniques
+
+https://refactoring.guru/refactoring/smells",https://q.utoronto.ca/courses/394773/pages/m4-refactoring-the-observer-anti-pattern,
+No,Identifying New Design Patterns,,https://q.utoronto.ca/courses/394773/pages/m4-identifying-new-patterns,
+No,"Module 5 -- Nov 19-Dec 1 -- Ethics, Regex, and Presentations","https://youtu.be/pEHgzNif1_s?si=ShePVzyj1IxCxUt8
+
+https://youtu.be/E15xKmgy95o?si=Y2V5xbRnnvq_giYP
+
+https://youtu.be/xbQXtvM4K2o?si=gWt_9sh1ukpTJhEh - https://universaldesign.ie/about-universal-design/the-7-principles
+
+https://universaldesign.ie/about-universal-design",https://q.utoronto.ca/courses/394773/quizzes/487448,"Material_and_Relational_Harms_(1).pdf, Medical_and_Social_Model_of_Disability_(1).pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-487528-history-2025-12-17-16_38_26.pdf, M5_Principles_of_Universal_Design_Practice_Quiz.png, E3I-harms.pdf, E3I-disability.pdf, E3I-wrapup.pdf"
+No,Regular Expressions,https://regex101.com/,"https://q.utoronto.ca/courses/394773/pages/m5-regular-expressions
+Attempt myself: https://github.com/christinecheng1229/m5-regex",
+No,"RAT, Ethics Activities",https://github.com/CSC207-2025F-UofT/WelcomingApp,https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-1 | https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-2| https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-3 | https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-4 | https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-5,iRAT%202.pdf
+No,01-introduction-to-java.md,"https://github.com/CSC207-UofT/207-course-notes/blob/master/01-introduction-to-java.md
+
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html",https://q.utoronto.ca/courses/394773/quizzes/460462,screencapture-q-utoronto-ca-courses-394773-quizzes-460462-history-2025-12-13-16_36_07.pdf

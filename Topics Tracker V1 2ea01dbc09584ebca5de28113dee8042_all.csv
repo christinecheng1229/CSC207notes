@@ -1,0 +1,129 @@
+﻿Topic,Property,More Resources/Practice,Parent item,Practice,Progress,Resources,Sub-item
+Module 0 (not for marks) -- Sept 2-16 -- Java Fundamentals and Version Control,No,,,https://q.utoronto.ca/courses/394773/quizzes/475878 | https://github.com/christinecheng1229/FizzBuzz,New,"
+• Clean Architecture book: Part 1 (pages 1–18)","00-introduction-to-git.md (00-introduction-to-git%20md%20281e7be659d980f3b6b1ef0abd8842ad.csv), 01-introduction-to-java.md (01-introduction-to-java%20md%2026be7be659d98006b6d5e70ed07e63ac.csv), L1: Software Lifecycle (L1%20Software%20Lifecycle%202c8e7be659d980e4bd66caba6a7494f6.csv), L1: University Example IntelliJ Demo (L1%20University%20Example%20IntelliJ%20Demo%202c8e7be659d980f7b679c8c217e3390e.csv), RAT, Java games 1 & 2 (RAT,%20Java%20games%201%20&%202%2026be7be659d9801cab5beef2841e4815.csv)"
+Module 1 -- Sept 17-30 -- Java OOP,No,,,https://github.com/mafereyesb/LostInTranslation | https://github.com/christinecheng1229/NumberTriangle,New,"• Clean Architecture book: Part 2 (pages 19–56)
+
+• https://javadoc.io/doc/org.json/json/latest/index.html","02-classes-in-java.md (02-classes-in-java%20md%20272e7be659d980e3ade5deb04c1f9a96.csv), 03-relationships-between-classes.md (03-relationships-between-classes%20md%20272e7be659d9805a99ccddf52d364d5e.csv), 04-GUIs-with-swing.md (04-GUIs-with-swing%20md%20272e7be659d980cba2f4d782f7f7e761.csv), RAT (RAT%20281e7be659d98064b3b1fac7f660de4d.csv), OOP Explorations Part 1 (OOP%20Explorations%20Part%201%20279e7be659d980e4a16fdd08c5c79755.csv), UML Diagrams (UML%20Diagrams%20280e7be659d9806c859bdfa1e70f091e.csv), 05-java-gotchas-and-subtleties.md (05-java-gotchas-and-subtleties%20md%202c8e7be659d9806cb48fcc13bad97af3.csv), 06-generics.md (06-generics%20md%202c8e7be659d9806ab9aff4144f036ba0.csv), 07-collections.md (07-collections%20md%202c8e7be659d9801c9b53ca9843e747e8.csv), 08-program-specification.md (08-program-specification%20md%202c8e7be659d980b2b57df5c1f23273ab.csv)"
+Module 2 -- Oct 1-14 -- Design Principles,No,,,https://github.com/mafereyesb/lab-5 | https://github.com/christinecheng1229/m2-coding-dog-breed-fetcher,New,• Clean Architecture book: Part 3: Design Principles (pages 57–91),"09-design-principles.md (09-design-principles%20md%20280e7be659d980bea45bdf6850fc90fb.csv), OOP Explorations 2 (OOP%20Explorations%202%20280e7be659d98068a805c4ce2d68ecd9.csv), Exceptions (Exceptions%20287e7be659d980989c0fc65535a415d1.csv), Use Cases (Use%20Cases%20287e7be659d980e5a0f3d0b6d837908a.csv)"
+Module 3 -- Oct 15-Nov 4 -- Clean Architecture,No,TestingCA.pdf,,https://github.com/mafereyesb/ca-lab,New,"Clean Architecture book: Part 5: Architecture (pages 133–273)
+    ◦ The most relevant chapters are 15–16, 19–22, and 26 — if you don't wish to read this whole part of the book but still get the main ideas.
+
+https://medium.com/slalom-build/clean-architecture-with-java-11-f78bba431041
+
+https://www.plainionist.net/Clean-Architecture-And-Design/
+
+https://www.newstore.com/articles/clean-architecture-code-hotspots/
+
+https://javadevguy.wordpress.com/2017/07/27/a-detailed-analysis-of-the-clean-architecture-from-an-object-oriented-perspective/","10-introduction-to-layered-architectures.md (10-introduction-to-layered-architectures%20md%2028ee7be659d98046b7bec18644f67aa1.csv), 11-clean-architecture.md (11-clean-architecture%20md%2028ee7be659d980648427e3478ef92b7b.csv), RATs, Clean Architecture and Use Case Interactors Activities (RATs,%20Clean%20Architecture%20and%20Use%20Case%20Interactors%20%2028ee7be659d9800a89bbd1a0c5251378.csv), Building the CA Engine (Building%20the%20CA%20Engine%20295e7be659d9801f9cc0f74a0abf9064.csv), Unit Test for a Use Case Interactor (Unit%20Test%20for%20a%20Use%20Case%20Interactor%20295e7be659d980b68f06d15ca703bd5d.csv)"
+Module 4 -- Nov 5-18 -- Design Patterns,No,PropertyChangeDocumentation.pdf,,,New,"• The Clean Architecture book talks about several patterns in passing, but this topic isn't the focus of the book:
+    ◦ Chapter 11: DIP talks about the Abstract Factory pattern near the end.
+    ◦ Chapter 23: Presenters and Humble Objects talks about the Humble Object pattern which you may find interesting as it relates to how the Clean Architecture is designed to be testable.
+    ◦ Façades and the Strategy pattern are briefly discussed at the end of Chapter 24: Partial Boundaries.
+• Head First Design Patterns is a highly recommended first book on design patterns.","12-design-patterns.md (12-design-patterns%20md%202a3e7be659d980b2ab83ecc1be490bbf.csv), Design Patterns 1 (Design%20Patterns%201%202a4e7be659d980d38e1dd434653e6bf9.csv), 13-refactoring-techniques.md (13-refactoring-techniques%20md%202a3e7be659d9806f81aef8f492bad33a.csv), Refactoring the Observer Anti-Pattern (Refactoring%20the%20Observer%20Anti-Pattern%202aae7be659d980738723ef9f15aa10f4.csv), Design Patterns 2 (Design%20Patterns%202%202cce7be659d980e3a636cbf901a4446a.csv), Identifying New Design Patterns (Identifying%20New%20Design%20Patterns%202abe7be659d98083874fdba0e7917882.csv)"
+"Module 5 -- Nov 19-Dec 1 -- Ethics, Regex, and Presentations",No,"Material_and_Relational_Harms_(1).pdf, Medical_and_Social_Model_of_Disability_(1).pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-487528-history-2025-12-17-16_38_26.pdf, M5_Principles_of_Universal_Design_Practice_Quiz.png, E3I-harms.pdf, E3I-disability.pdf, E3I-wrapup.pdf",,https://q.utoronto.ca/courses/394773/quizzes/487448,New,"https://youtu.be/pEHgzNif1_s?si=ShePVzyj1IxCxUt8
+
+https://youtu.be/E15xKmgy95o?si=Y2V5xbRnnvq_giYP
+
+https://youtu.be/xbQXtvM4K2o?si=gWt_9sh1ukpTJhEh - https://universaldesign.ie/about-universal-design/the-7-principles
+
+https://universaldesign.ie/about-universal-design","RAT, Ethics Activities (RAT,%20Ethics%20Activities%202b1e7be659d980658044cc012731c869.csv), 14-regular-expressions.md (14-regular-expressions%20md%202b9e7be659d980e18388d1b9e62f21b6.csv), Regular Expressions (Regular%20Expressions%202b8e7be659d980c4957dcd5f45f02022.csv)"
+01-introduction-to-java.md,No,screencapture-q-utoronto-ca-courses-394773-quizzes-460462-history-2025-12-13-16_36_07.pdf,Module 0 (not for marks) -- Sept 2-16 -- Java Fundamentals and Version Control (Module%200%20(not%20for%20marks)%20--%20Sept%202-16%20--%20Java%20Fund%2026be7be659d980a1ac65c67180e81c76.csv),https://q.utoronto.ca/courses/394773/quizzes/460462,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/01-introduction-to-java.md
+
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html",
+"RAT, Java games 1 & 2",No,iRAT%201.pdf,Module 0 (not for marks) -- Sept 2-16 -- Java Fundamentals and Version Control (Module%200%20(not%20for%20marks)%20--%20Sept%202-16%20--%20Java%20Fund%2026be7be659d980a1ac65c67180e81c76.csv),https://q.utoronto.ca/courses/394773/quizzes/473946 | https://q.utoronto.ca/courses/394773/pages/m0-java-games-part-1-2 | https://q.utoronto.ca/courses/394773/pages/m0-java-games-part-2-2,New,,
+02-classes-in-java.md,No,screencapture-q-utoronto-ca-courses-394773-quizzes-460464-history-2025-12-13-17_22_13.pdf,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/02-classes-in-java.md
+
+https://github.com/CSC207-UofT/207-course-notes/blob/master/code/Monster.java
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/",
+03-relationships-between-classes.md,No,screencapture-q-utoronto-ca-courses-394773-quizzes-460461-history-2025-12-13-17_22_56.pdf,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/03-relationships-between-classes.md
+
+https://github.com/CSC207-UofT/207-course-notes/blob/master/code/gui/MainFrame.java
+
+https://github.com/CSC207-UofT/207-course-notes/blob/master/code/gui/NestedPanelsExample.java
+
+https://docs.oracle.com/javase/tutorial/java/IandI/",
+04-GUIs-with-swing.md,No,screencapture-q-utoronto-ca-courses-394773-quizzes-479224-history-2025-12-13-17_23_49.pdf,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/04-GUIs-with-swing.md
+
+https://docs.oracle.com/javase/tutorial/uiswing/
+
+https://docs.oracle.com/javase/tutorial/uiswing/components/list.html",
+Java games 3,No,JavaMemoryModelExamples.pdf,RAT (RAT%20281e7be659d98064b3b1fac7f660de4d.csv),https://q.utoronto.ca/courses/394773/pages/m1-java-games-part-3,New,,
+Parts of a Program,No,RestaurantReviewSpecification_(1).pdf,RAT (RAT%20281e7be659d98064b3b1fac7f660de4d.csv),https://q.utoronto.ca/courses/394773/pages/m1-parts-of-a-program (+ https://github.com/CSC207-2025F-UofT/Trader),New,,
+OOP Explorations Part 1,No,JCF-overview.pdf,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),https://q.utoronto.ca/courses/394773/pages/m1-oop-explorations-part-1,New,,
+09-design-principles.md,No,"SRP.pdf, OCP.pdf, LSP.pdf, ISP.pdf, DIP.pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-481354-history-2025-12-13-18_10_05.pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-481343-history-2025-12-13-18_13_01.pdf",Module 2 -- Oct 1-14 -- Design Principles (Module%202%20--%20Oct%201-14%20--%20Design%20Principles%2026be7be659d980fea17ce010271854ea.csv),,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/09-design-principles.md
+
+https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html
+
+https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html
+
+https://blog.cleancoder.com/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html
+
+https://blog.cleancoder.com/uncle-bob/2013/03/08/AnOpenAndClosedCase.html","Your Project and SOLID: stakeholders, actors, user (Your%20Project%20and%20SOLID%20stakeholders,%20actors,%20user%202c8e7be659d9808787c6c66cac925f34.csv)"
+UML Diagrams,No,uml-class-diagrams.pdf,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),,New,,
+OOP Explorations 2,No,ShapeCalculatorExample.pdf,Module 2 -- Oct 1-14 -- Design Principles (Module%202%20--%20Oct%201-14%20--%20Design%20Principles%2026be7be659d980fea17ce010271854ea.csv),https://q.utoronto.ca/courses/394773/pages/m2-oop-explorations-part-2,New,https://github.com/jcal13/area-calculator,
+00-introduction-to-git.md,No,screencapture-q-utoronto-ca-courses-394773-quizzes-475878-history-2025-12-13-16_42_52.pdf,Module 0 (not for marks) -- Sept 2-16 -- Java Fundamentals and Version Control (Module%200%20(not%20for%20marks)%20--%20Sept%202-16%20--%20Java%20Fund%2026be7be659d980a1ac65c67180e81c76.csv),https://learngitbranching.js.org/ | https://github.com/christinecheng1229/lab2-branching-and-merging | https://github.com/altcait/lab2-multiset-adt,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/00-introduction-to-git.md
+
+https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue
+
+https://www.atlassian.com/git/tutorials/using-branches
+
+https://youtu.be/d3N2yeAaLkc?si=FAfhoU5UZ_OxMbSg",
+RAT,No,iRAT.pdf,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),https://q.utoronto.ca/courses/394773/quizzes/479131,New,,"Java games 3 (Java%20games%203%20272e7be659d980aa9620e49acd01f9ab.csv), Parts of a Program (Parts%20of%20a%20Program%20279e7be659d980ebb63af83b39bea83f.csv)"
+Exceptions,No,Exceptions.pdf,Module 2 -- Oct 1-14 -- Design Principles (Module%202%20--%20Oct%201-14%20--%20Design%20Principles%2026be7be659d980fea17ce010271854ea.csv),https://q.utoronto.ca/courses/394773/pages/m2-exceptions,New,https://github.com/CSC207-2025F-UofT/exception-examples,
+Use Cases,No,Introduction_to_Use_Cases.pdf,Module 2 -- Oct 1-14 -- Design Principles (Module%202%20--%20Oct%201-14%20--%20Design%20Principles%2026be7be659d980fea17ce010271854ea.csv),https://q.utoronto.ca/courses/394773/pages/m2-use-cases,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/08-program-specification.md#82-use-cases
+
+https://q.utoronto.ca/courses/394773/pages/how-to-implement-a-use-case",
+10-introduction-to-layered-architectures.md,No,,Module 3 -- Oct 15-Nov 4 -- Clean Architecture (Module%203%20--%20Oct%2015-Nov%204%20--%20Clean%20Architecture%2026be7be659d980b0aaf7c9535063f6f0.csv),,New,https://github.com/CSC207-UofT/207-course-notes/blob/master/10-introduction-to-layered-architectures.md,
+11-clean-architecture.md,No,"screencapture-q-utoronto-ca-courses-394773-quizzes-483173-history-2025-12-17-15_16_54.pdf, CleanArchitectureDiagram_(2).png",Module 3 -- Oct 15-Nov 4 -- Clean Architecture (Module%203%20--%20Oct%2015-Nov%204%20--%20Clean%20Architecture%2026be7be659d980b0aaf7c9535063f6f0.csv),,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/11-clean-architecture.md
+
+https://github.com/CSC207-2025F-UofT/ca-user-login
+
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+
+https://youtu.be/Nsjsiz2A9mg?si=jb_vQna71ErLUmCv",
+"RATs, Clean Architecture and Use Case Interactors Activities",No,screencapture-q-utoronto-ca-courses-394773-quizzes-482244-history-2025-12-17-15_20_52.pdf,Module 3 -- Oct 15-Nov 4 -- Clean Architecture (Module%203%20--%20Oct%2015-Nov%204%20--%20Clean%20Architecture%2026be7be659d980b0aaf7c9535063f6f0.csv),https://q.utoronto.ca/courses/394773/pages/m3-clean-architecture-part-1 | https://q.utoronto.ca/courses/394773/pages/m3-use-case-interactors,New,,
+Building the CA Engine,No,,Module 3 -- Oct 15-Nov 4 -- Clean Architecture (Module%203%20--%20Oct%2015-Nov%204%20--%20Clean%20Architecture%2026be7be659d980b0aaf7c9535063f6f0.csv),https://q.utoronto.ca/courses/394773/pages/m3-building-the-ca-engine,New,,
+Unit Test for a Use Case Interactor,No,testing_use_cases.pdf,Module 3 -- Oct 15-Nov 4 -- Clean Architecture (Module%203%20--%20Oct%2015-Nov%204%20--%20Clean%20Architecture%2026be7be659d980b0aaf7c9535063f6f0.csv),,New,"https://github.com/CSC207-2025F-UofT/ca-lab (/w examples of testing use cases)
+    ◦ https://github.com/CSC207-2025F-UofT/ca-lab/blob/main/src/test/java/use_case/login/LoginInteractorTest.java",
+12-design-patterns.md,No,"DesignPatterns.pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-485098-history-2025-12-17-15_57_09.pdf, screencapture-q-utoronto-ca-courses-394773-quizzes-484945-history-2025-12-17-16_06_32.pdf",Module 4 -- Nov 5-18 -- Design Patterns (Module%204%20--%20Nov%205-18%20--%20Design%20Patterns%2026be7be659d980ee9ba1ff749a329e87.csv),,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/12-design-patterns.md
+
+https://github.com/CSC207-UofT/207-course-notes/tree/master/code/design_patterns
+
+https://q.utoronto.ca/courses/394773/pages/m4-builder-examples
+
+https://refactoring.guru/design-patterns
+
+https://sourcemaking.com/design_patterns",
+13-refactoring-techniques.md,No,Refactoring_and_Anti-Patterns.pdf,Module 4 -- Nov 5-18 -- Design Patterns (Module%204%20--%20Nov%205-18%20--%20Design%20Patterns%2026be7be659d980ee9ba1ff749a329e87.csv),https://github.com/christinecheng1229/M4-refactoring (task 3 onwards),New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/13-refactoring-techniques.md
+
+https://www.thoughtworks.com/content/dam/thoughtworks/documents/books/bk_Refactoring2-free-chapter_en.pdf",
+Design Patterns 1,No,,Module 4 -- Nov 5-18 -- Design Patterns (Module%204%20--%20Nov%205-18%20--%20Design%20Patterns%2026be7be659d980ee9ba1ff749a329e87.csv),https://q.utoronto.ca/courses/394773/pages/m4-design-patterns-1,New,,
+Refactoring the Observer Anti-Pattern,No,,Module 4 -- Nov 5-18 -- Design Patterns (Module%204%20--%20Nov%205-18%20--%20Design%20Patterns%2026be7be659d980ee9ba1ff749a329e87.csv),https://q.utoronto.ca/courses/394773/pages/m4-refactoring-the-observer-anti-pattern,New,"https://github.com/CSC207-UofT/207-course-notes/tree/master/code/design_patterns/behavioural/observer
+
+https://refactoring.guru/refactoring/techniques
+
+https://refactoring.guru/refactoring/smells",
+Identifying New Design Patterns,No,,Module 4 -- Nov 5-18 -- Design Patterns (Module%204%20--%20Nov%205-18%20--%20Design%20Patterns%2026be7be659d980ee9ba1ff749a329e87.csv),https://q.utoronto.ca/courses/394773/pages/m4-identifying-new-patterns,New,,
+"RAT, Ethics Activities",No,iRAT%202.pdf,"Module 5 -- Nov 19-Dec 1 -- Ethics, Regex, and Presentations (Module%205%20--%20Nov%2019-Dec%201%20--%20Ethics,%20Regex,%20and%20Pre%2026be7be659d98013b02cd928b5a109de.csv)",https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-1 | https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-2| https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-3 | https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-4 | https://q.utoronto.ca/courses/394773/pages/m5-ethics-activity-5,New,https://github.com/CSC207-2025F-UofT/WelcomingApp,
+Regular Expressions,No,,"Module 5 -- Nov 19-Dec 1 -- Ethics, Regex, and Presentations (Module%205%20--%20Nov%2019-Dec%201%20--%20Ethics,%20Regex,%20and%20Pre%2026be7be659d98013b02cd928b5a109de.csv)","https://q.utoronto.ca/courses/394773/pages/m5-regular-expressions
+Attempt myself: https://github.com/christinecheng1229/m5-regex",New,https://regex101.com/,
+14-regular-expressions.md,No,"Regex.pdf, Regex_Practice_Quiz.pdf","Module 5 -- Nov 19-Dec 1 -- Ethics, Regex, and Presentations (Module%205%20--%20Nov%2019-Dec%201%20--%20Ethics,%20Regex,%20and%20Pre%2026be7be659d98013b02cd928b5a109de.csv)",,New,"https://github.com/CSC207-UofT/207-course-notes/blob/master/14-regular-expressions.md
+
+https://github.com/CSC207-UofT/207-course-notes/blob/master/code/regex/Demo.java
+
+https://www.rexegg.com/regex-quickstart.php
+
+https://jenkov.com/tutorials/java-regex/index.html
+
+https://regexcrossword.com/
+
+https://www.w3schools.com/java/java_regex.asp",
+L1: Software Lifecycle,No,,Module 0 (not for marks) -- Sept 2-16 -- Java Fundamentals and Version Control (Module%200%20(not%20for%20marks)%20--%20Sept%202-16%20--%20Java%20Fund%2026be7be659d980a1ac65c67180e81c76.csv),,New,https://utoronto-my.sharepoint.com/:b:/r/personal/christineentse_cheng_mail_utoronto_ca/Documents/Year%204/CSC207H1-F/Lecture%201_initial.pdf?csf=1&web=1&e=cYSMlY,
+L1: University Example IntelliJ Demo,No,,Module 0 (not for marks) -- Sept 2-16 -- Java Fundamentals and Version Control (Module%200%20(not%20for%20marks)%20--%20Sept%202-16%20--%20Java%20Fund%2026be7be659d980a1ac65c67180e81c76.csv),,New,https://github.com/paulgries/UniversityExample,
+05-java-gotchas-and-subtleties.md,No,,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),,New,https://github.com/CSC207-UofT/207-course-notes/blob/master/05-java-gotchas-and-subtleties.md,
+06-generics.md,No,,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),,New,https://github.com/CSC207-UofT/207-course-notes/blob/master/06-generics.md,
+07-collections.md,No,,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),,New,https://github.com/CSC207-UofT/207-course-notes/blob/master/07-collections.md,
+08-program-specification.md,No,,Module 1 -- Sept 17-30 -- Java OOP (Module%201%20--%20Sept%2017-30%20--%20Java%20OOP%2026be7be659d980358a36cfb6580c99bc.csv),https://github.com/mafereyesb/todo-list,New,https://github.com/CSC207-UofT/207-course-notes/blob/master/08-program-specification.md,
+"Your Project and SOLID: stakeholders, actors, user",No,,09-design-principles.md (09-design-principles%20md%20280e7be659d980bea45bdf6850fc90fb.csv),,New,,
+Design Patterns 2,No,,Module 4 -- Nov 5-18 -- Design Patterns (Module%204%20--%20Nov%205-18%20--%20Design%20Patterns%2026be7be659d980ee9ba1ff749a329e87.csv),https://q.utoronto.ca/courses/394773/pages/m4-design-patterns-2,New,,
